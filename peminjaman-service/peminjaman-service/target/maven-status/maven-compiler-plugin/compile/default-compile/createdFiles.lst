@@ -1,0 +1,9 @@
+com\dhika\peminjaman\repository\PeminjamanRepository.class
+com\dhika\peminjaman\entity\Peminjaman.class
+com\dhika\peminjaman\service\PeminjamanService.class
+com\dhika\peminjaman\VO\Buku.class
+com\dhika\peminjaman\VO\RestTemplateConfiguration.class
+com\dhika\peminjaman\controller\PeminjamanController.class
+com\dhika\peminjaman\PeminjamanServisApplication.class
+com\dhika\peminjaman\VO\Anggota.class
+com\dhika\peminjaman\VO\ResponseTemplateVO.class
